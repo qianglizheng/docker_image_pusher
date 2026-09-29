@@ -1,5 +1,5 @@
 redis:7.2
-nacos-server:v3.2.4
+nacos/nacos-server:v3.2.4
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
